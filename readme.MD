@@ -99,7 +99,7 @@ python --version
 2. Execute o arquivo principal:
 
 ```bash
-python knapsack.py
+python main.py
 ```
 
 3. O programa executará automaticamente os testes disponíveis, exibindo:
